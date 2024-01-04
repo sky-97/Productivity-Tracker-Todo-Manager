@@ -39,7 +39,7 @@ Welcome to the Productivity Tracker App! This application is designed to help us
 4. Run the app:
 
    ```bash
-  NODE_ENV=production npm run electron:serve
+   NODE_ENV=development npm run electron:serve
    ```
 
 ## Usage
